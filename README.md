@@ -5,4 +5,5 @@
 4.
 =======
 # fcc_smart_contract_lottery
->>>>>>> 1af037b4010fd670463b0270c68ed856bd7d6c09
+contract: 0x5A8854C9243aAbb0D4F54EBC7a5077B1d22Ed3cb
+[link to contract] (https://goerli.etherscan.io/address/0x5a8854c9243aabb0d4f54ebc7a5077b1d22ed3cb)
